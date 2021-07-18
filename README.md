@@ -1,4 +1,1 @@
-
-### Hello 👋, I'm [ro](https://www.facebook.com/barankyo/), a Vietnamese software developer .
-
-![](https://media.giphy.com/media/3PAL5bChWnak0WJ32x/giphy.gif)
+![](https://media.giphy.com/media/pj30mdklB3FaaoFoOv/giphy.gif)
